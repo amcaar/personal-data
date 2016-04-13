@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datos personales</string>
+    <string name="enter_dni">Introduce tu número de DNI:</string>
+    <string name="enter_card">Introduce tu número de tarjeta:</string>
+    <string name="ok">Aceptar</string>
+</resources>
